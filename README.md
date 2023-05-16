@@ -67,7 +67,7 @@ Please open an issue or pull request on GitHub.
 
 ## Questions
 
-If you have any questions about the project, please feel free to message us or create an issue.
+If you have any questions about the project, please feel free to message me or create an issue.
 
 
 [https://drive.google.com/file/d/1F7mv1R6T3cGFB__U45MukfgvAY8oXp-B/view?usp=share_link]: https://drive.google.com/file/d/1F7mv1R6T3cGFB__U45MukfgvAY8oXp-B/view?usp=share_link

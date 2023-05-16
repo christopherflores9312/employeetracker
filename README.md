@@ -53,6 +53,10 @@ The application uses the following MySQL database tables:
 1. Run `node index.js` to start the application
 2. Follow the prompts to view, add, or update data
 
+## Demo
+
+Visit this link to see a demo [CLICK HERE!][https://drive.google.com/file/d/1F7mv1R6T3cGFB__U45MukfgvAY8oXp-B/view?usp=share_link]
+
 ## License
 
 This project is licensed under the terms of the MIT license.
@@ -64,3 +68,6 @@ Please open an issue or pull request on GitHub.
 ## Questions
 
 If you have any questions about the project, please feel free to message us or create an issue.
+
+
+[https://drive.google.com/file/d/1F7mv1R6T3cGFB__U45MukfgvAY8oXp-B/view?usp=share_link]: https://drive.google.com/file/d/1F7mv1R6T3cGFB__U45MukfgvAY8oXp-B/view?usp=share_link
